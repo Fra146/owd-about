@@ -1,0 +1,25 @@
+{
+  "name": "about",
+  "author": {
+    "name": "Fra146"
+  },
+  "windows": [
+    {
+      "name": "AboutWindow",
+      "title": "About",
+      "titleShort": "About",
+      "icon": "account-circle-outline",
+      "window": {
+        "menu": true,
+        "closed": true,
+        "hidden": false,
+        "resizable": true,
+        "width": 448,
+        "height": 240,
+        "x": -1,
+        "y": 0,
+        "z": 0
+      }
+    }
+  ]
+}
