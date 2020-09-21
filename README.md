@@ -1,5 +1,5 @@
 # About module for OWD Client
-> The about module for OWD Client add a 
+> The about module for OWD Client add a simple "About" Window
 
 
 ## Quick install
