@@ -3,7 +3,7 @@
 
 
 ## Quick install
-- Copy the content of the `client` module folder into `owd-client/src/modules/todo`
+- Copy the content of the `client` module folder into `owd-client/src/modules/about`
 - Add the reference of this module into `owd-client/config/modules.json` 
 
 ## License
